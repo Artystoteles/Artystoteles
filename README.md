@@ -1,4 +1,4 @@
-[![MasterHead](https://plopdo.com/wp-content/uploads/2021/07/Screenshot-1-1210x642.png?crop=1)]
+![MasterHead](https://plopdo.com/wp-content/uploads/2021/07/Screenshot-1-1210x642.png?crop=1)
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
